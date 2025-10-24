@@ -1,0 +1,9 @@
+[package]
+name = "rust-merkle-root-calculator"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Kripto projelerinin vazgeçilmezi: SHA-256 hashleme kütüphanesi
+sha2 = "0.10"
+hex = "0.4" # Byte dizilerini okunabilir string'lere çevirmek için
