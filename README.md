@@ -30,7 +30,7 @@ To compile and run this project, you must have the Rust toolchain (including Car
 
 ```bash
 # Clone the repository
-git clone [https://github.com/KZMKBL/rust-merkle-root-calculator.git](https://github.com/YOUR_GITHUB_USERNAME/rust-merkle-root-calculator.git)
+git clone [https://github.com/KZMKBL/rust-merkle-root-calculator.git](https://github.com/KZMKBL/rust-merkle-root-calculator.git)
 cd rust-merkle-root-calculator
 
 # Compile the project
